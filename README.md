@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Want to work?
  
-- 🔭 I’m currently working on migrating all of my past projects onto Github and finding position on a data driven team of individuals who both apply skills that create optimized results while exploring new ideas and methods.
+- 🔭 I’m currently working on migrating all of my past projects onto Github and finding a position on a data driven team of individuals who both apply skills that create optimized results while still exploring new ideas and methods.
 
 - 👯 I’m looking to collaborate on anything! While I am looking to join a career position, I am open and eager to collaborate on almost any sort of work from personal projects to data competition teams to data consulting to even just giving advice on anything I am knowledgable on.
 
