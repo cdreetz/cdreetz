@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 Statistics -> Data Science -> Machine Learning -> Language Modeling
 
-Python, R, Ruby, Rails, 
+Python mostly
 
