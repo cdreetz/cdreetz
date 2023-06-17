@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 ## About
 
-Statistics -> Data Science -> Machine Learning -> Language Modeling
+Statistics turned Data Science turned Machine Learning turned Language Modeling 
+
+CV for fun
 
 Python mostly
 
